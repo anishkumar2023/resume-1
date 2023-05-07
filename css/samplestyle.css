@@ -1,0 +1,29 @@
+*{
+   margin:0;
+   padding:o;
+   box-sizing:border-box;
+}
+#blue{
+	border-style:soild;
+	width:150px;
+	border-radius:100px;
+	background-color:blue;
+}
+#white{
+	border-style:soild;
+	width:150px;
+	border-radius:100px;
+}
+*{
+	margin:5pX 250px 5px 156px;
+	margin-left:20%;
+	margin-right:20%
+}
+fieldset{
+	margin-top:90px;
+	box-shadow:9px 20px;
+}
+hr{
+	display:inline-block;
+	width:30%
+}
